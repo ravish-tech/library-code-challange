@@ -3,6 +3,16 @@
 My personal laptop is a macbook so I could not use the given template for the project and started from scratch.
 Its a .net 6 based implementation, but most of the code is transferable to .net frameworks.
 
+## How to run
+```bash
+cd <path of Library.Api>
+dotnet run
+```
+
+1. http://localhost:5123/ - UI
+2. http://localhost:5123/api/books - Calling the API
+3. http://localhost:5123/swagger - For when run in debug mode to view Swagger UI
+
 ## API Implementation
 I have also created a `load-test` folder with a locust file, that I used to test the performance of the implementation.
 Please see the report in that folder for the latest run results.
