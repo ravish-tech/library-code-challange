@@ -2,6 +2,9 @@ using System.Text.RegularExpressions;
 
 namespace Library.Api.TexlyzerEngine;
 
+/// <summary>
+/// Text Analyzer Engine
+/// </summary>
 public class TexlyzerEngine : ITexlyzerEngine
 {
     private readonly Regex _wordMatcher = new Regex("[a-z]{5,}", RegexOptions.Compiled | RegexOptions.IgnoreCase);

@@ -1,4 +1,3 @@
-using System.Collections;
 using Library.Api.Configuration;
 using Library.Api.TexlyzerEngine;
 using Microsoft.Extensions.Options;
@@ -45,6 +44,10 @@ public class BooksRepository : IBooksRepository
 
         if (query is { Length: > 2 })
         {
+            // In my load test results performance of this API is fast enough. Thus I did not implement caching of
+            // query results so we dont have to do a search again. If it becomes a problem, we can implement a cache
+            // with query-result limited to n number. Each item will stay alive for t amount of time with new queries
+            // of an already existing item resetting their timers.
             result = _wordCounts[bookId].Where(word => word.Key.StartsWith(query, StringComparison.OrdinalIgnoreCase));
         }
 
