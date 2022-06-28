@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c32391d_002D75f8_002D4840_002D8920_002Dcf87a49224fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_Get_Words" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.BooksRepositoryTests.Test_Get_Words_With_Limit&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.BooksRepositoryTests.Test_Get_Words_With_Query&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.BooksRepositoryTests.Test_Get_Book_Titles&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.TexlyzerEngineTests.Test_Process_File&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=278edccc_002D2e3d_002D40b0_002Da4ef_002D2b93b8de55e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_Process_File" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.TexlyzerEngineTests.Test_Process_File&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a42ca360_002D0732_002D4d53_002D9ede_002D373b073190f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Process_File #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::36F41193-CD9D-4FC0-BFFF-9819FDBB421E::net6.0::Library.Tests.TexlyzerEngineTests.Test_Process_File&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

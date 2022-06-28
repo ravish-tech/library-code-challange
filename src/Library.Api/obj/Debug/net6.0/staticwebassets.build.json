@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "/FRl9HasiK3FiCtyCn0rcILeyAei+1vs2H8shDI02HY=",
+  "Source": "Library.Api",
+  "BasePath": "_content/Library.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Library.Api/wwwroot",
+      "Source": "Library.Api",
+      "ContentRoot": "/Users/ravishkumar/Documents/projects/github/library-code-challange/src/Library.Api/wwwroot/",
+      "BasePath": "_content/Library.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ravishkumar/Documents/projects/github/library-code-challange/src/Library.Api/wwwroot/index.html",
+      "SourceId": "Library.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ravishkumar/Documents/projects/github/library-code-challange/src/Library.Api/wwwroot/",
+      "BasePath": "_content/Library.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/ravishkumar/Documents/projects/github/library-code-challange/src/Library.Api/wwwroot/index.js",
+      "SourceId": "Library.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ravishkumar/Documents/projects/github/library-code-challange/src/Library.Api/wwwroot/",
+      "BasePath": "_content/Library.Api",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.js"
+    }
+  ]
+}
